@@ -1,9 +1,10 @@
 ### Random Hash Finder 
-This script will search for random hashes in the IPFS network. Current Hashes are randomly generated.
+This script will search for random hashes in the IPFS network.
 
 Subsequent versions could load from a data source or accept hashes from http requests. 
 
 ### Start local daemon
+Ensure you have a ipfs installed and running in port 5100. You can start it with the command below.
 ```ipfs daemon```
 
 
